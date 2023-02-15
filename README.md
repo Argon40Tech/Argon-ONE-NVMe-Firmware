@@ -16,21 +16,31 @@ Repository of Argon ONE M.2 NVMe related updates and configurations
 
 5. **INPUT the following configurations into the Tool:**
 
-      a. **KEY:** asmedia
+        a. KEY:             asmedia
       
-      b. **VENDOR ID:** 174C
-      c. **PRODUCT ID:** 2362
-      d. **DEVICE REVISION:** 0100
-      e. **DEVICE CONFIGURATION SERIAL NUMBER:** 000000000F02
+        b. VENDOR ID:       174C
       
-      f. **S/N CHK HEX** - Select this setting
-      g. **S/N Increase** - Select this setting (HEX)
-      h. **Update FW** - Select this setting
-      i. **Reload FW** - Select this setting
+        c. PRODUCT ID:      2362
       
-      j. **EPO M.String:** Gen2 10GBps
-      k. **T10 M.String:** Argon
-      l. **T10 P.String:** Forty
+        d. DEVICE REVISION: 0100
+      
+        e. DEVICE CONFIGURATION SERIAL NUMBER:  000000000F02
+     ### ### 
+      
+        f. S/N CHK HEX - Select this setting
+      
+        g. S/N Increase - Select this setting (HEX)
+      
+        h. Update FW - Select this setting
+      
+        i. Reload FW - Select this setting
+     ### ###
+      
+        j. EPO M.String:    Gen2 10GBps
+      
+        k. T10 M.String:    Argon
+      
+        l. T10 P.String:    Forty
       
       
 6. In the **FW Browser:** select the path to your firmware file (**lastest Argon ONE M.2 NVMe Firmware**)
