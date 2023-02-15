@@ -49,7 +49,7 @@ Repository of Argon ONE M.2 NVMe related updates and configurations
 
 8. Once all the configuration are setup, **CLICK** the play button and the bottom left corner of the Tool.
 
-9. The **PROGRESS BAR** will confirm with a **PASS** if your update was successful.
+9. The **PROGRESS BAR** will confirm with a **PASS** if your update is **successful.**
 
 
       
