@@ -5,10 +5,10 @@ Repository of Argon ONE M.2 NVMe related updates and configurations
 **Please follow the instructions properly in order to avoid bricking your unit**
 
 1. DOWNLOAD the **ASMEDIA Configuation Tool ASM2360** into your Windows PC via link below:
-    (https://github.com/ArgonForty/Argon-ONE-NVMe-Firmware/blob/main/ASM236xMPTool.exe)
+    (https://github.com/Argon40Tech/Argon-ONE-NVMe-Firmware/blob/main/ASM236xMPTool_v1.0.0.8.zip)
     
 2. DOWNLOAD the **lastest Argon ONE M.2 NVMe Firmware** via the link below:
-    (https://github.com/ArgonForty/Argon-ONE-NVMe-Firmware/blob/main/AS_PCIE_200811_81_00_00.bin)
+    (https://github.com/Argon40Tech/Argon-ONE-NVMe-Firmware/blob/main/AS_PCIE_200811_81_00_00.bin)
 
 3. CONNECT your **Argon ONE M.2 NVMe Expansion Board** to your PC via USB (PC - USB 3.0 Cable - NVMe Board)
 
